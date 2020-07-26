@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a mobile app for my college Library 
 - 🌱 I’m currently learning Machine Learning, Neural Networks and some subtleties of Python
-- 🤔 I’m looking forward to learning CSS and React along nodejs, angular and other backend frameworks in future.
+- 🤔 I’m looking forward to learning CSS and React along with nodejs, angular and other backend frameworks in future.
 - 💬 Ask me about anything! And I will find it for You! 😉
 - 📫 How to reach me: swethamag.2000@gmail.com
 - ⚡ Special Interests: Cryptography, Math
