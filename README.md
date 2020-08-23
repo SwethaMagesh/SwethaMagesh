@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-- 🔭 I’m currently working on a mobile app for my college Library 
+- 🔭 I’m currently working on DS and Algorithms (Kind of relearning what ought to have been mastered) 
 - 🌱 I’m currently learning Machine Learning, Neural Networks and some subtleties of Python
 - 🤔 I’m looking forward to learning CSS and React along with nodejs, angular and other backend frameworks in future.
 - 💬 Ask me about anything! And I will find it for You! 😉
