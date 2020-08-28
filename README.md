@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on DS and Algorithms (Kind of relearning what ought to have been mastered) 
-- 🌱 I’m currently learning Machine Learning, Neural Networks and some subtleties of Python
+- 🌱 Next plans on learning: Machine Learning, Neural Networks, APIs and Python Regex
 - 🤔 I’m looking forward to learning CSS and React along with nodejs, angular and other backend frameworks in future.
 - 💬 Ask me about anything! And I will find it for You! 😉
 - 📫 How to reach me: swethamag.2000@gmail.com
