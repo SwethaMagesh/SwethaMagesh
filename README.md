@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking forward to learning CSS and React along with nodejs, angular and other backend frameworks in future.
 - 💬 Ask me about anything! And I will find it for You! 😉
 - 📫 How to reach me: swethamag.2000@gmail.com
+- 🔗 Portfolio: http://swethamagesh.github.io 
+- 👩 LinkedIn: https://www.linkedin.com/in/swetha-magesh
 - ⚡ Special Interests: Cryptography, Math
