@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - (Kind of relearning what ought to have been mastered) 
 - 🤔 I’m looking forward to 
 -->
-- 👋 Hello folks! Swetha Magesh here!! 
-- 🔭 I’m currently working on Samsung Internship on Android notifications and Machine Learning (Striving hard to manage sem 5 too)
-- 🌱 Terms making sense: Machine Learning, Neural Networks, APIs and Python Regex
-- 😄 Still buzzwords: Dockers, Kubernetes, AngularJS, NodeJS, ReactJS
-- 💬 Ask me about anything! And I will find it for You! 😉
-- 📫 How to reach me: swethamag.2000@gmail.com
-- 🔗 Portfolio: http://swethamagesh.github.io 
-- 👩 LinkedIn: https://www.linkedin.com/in/swetha-magesh
+- 👋 Hello folks! **Swetha Magesh** here!! 
+- 🔭 I’m currently working on ***Samsung Internship on Android notifications and Machine Learning*** (Striving hard to manage sem 5 too)
+- 🌱 Terms making sense: *Machine Learning, Neural Networks, APIs and Python Regex*
+- 😄 Still buzzwords: *Dockers, Kubernetes, AngularJS, NodeJS, ReactJS*
 - ⚡ Special Interests: Cryptography, Math, Algorithms
+>- 💬 Ask me about anything! And I will find it for You! 😉
+>- 📫 How to reach me: swethamag.2000@gmail.com
+>- 🔗 Portfolio: http://swethamagesh.github.io 
+>- 👩 LinkedIn: https://www.linkedin.com/in/swetha-magesh
+
