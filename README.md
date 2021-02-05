@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 -->
 - 👋 Hello folks! **Swetha Magesh** here!! 
 - 🔭 I’m currently working on ***Samsung Internship on Android notifications and Machine Learning*** 
-- 😬 Preparing for *GATE exams*
-- 🌱 Finally understood the words: *Machine Learning, Neural Networks, APIs and Python Regex*
-- 😄 Still buzzwords: *Dockers, Kubernetes, AngularJS, NodeJS, ReactJS*
-- ⚡ Special Interests: Cryptography, Math, Algorithms, Theory of Computation
+- 🌱 Also on ***CNN model to identify weeds in sugar beet plant***
+- ⚡ Special Interests: Cryptography, Math, Algorithms, Theory of Computation, Networks
 >- 💬 Ask me about anything! And I will find it for You! 😉
 >- 📫 How to reach me: swethamag.2000@gmail.com
 >- 🔗 Portfolio: http://swethamagesh.github.io 
