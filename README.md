@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 >- 👩 LinkedIn: https://www.linkedin.com/in/swetha-magesh
 >- Additional links: [HackerRank](https://www.hackerrank.com/swethamag_2000) [CodeChef](https://www.codechef.com/users/undecipherable)
 > [LeetCode](https://leetcode.com/theUndecipherable/) [CodeForces](https://codeforces.com/profile/uncipherable) 
-> [StackOverflow](https://stackoverflow.com/users/13121045/swetha-magesh)
+> [StackOverflow](https://stackoverflow.com/users/13121045/swetha-magesh) [HackerEarth](https://www.hackerearth.com/@SwethaMagesh)
 
 <table>
 <tr>
