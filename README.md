@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 >- 📫 How to reach me: swethamag.2000@gmail.com
 >- 🔗 Portfolio: http://swethamagesh.github.io 
 >- 👩 LinkedIn: https://www.linkedin.com/in/swetha-magesh
+>- Additional links: [HackerRank](https://www.hackerrank.com/swethamag_2000) [CodeChef](https://www.codechef.com/users/undecipherable)
+> [LeetCode](https://leetcode.com/theUndecipherable/) [CodeForces](https://codeforces.com/profile/uncipherable) 
+> [StackOverflow](https://stackoverflow.com/users/13121045/swetha-magesh)
 
 <table>
 <tr>
