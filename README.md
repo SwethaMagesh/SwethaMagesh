@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking forward to 
 -->
 - 👋 Hello folks! **Swetha Magesh** here!! (Bored of Lockdown :<)
-- 😵 Working on [Map and Graph based project](https://github.com/SwethaMagesh/FinalYearProject) related to logistics.
+- 😵 Working on FAST-APIs based Python project. 
 - ✨ Studied [Azure Cloud Fundamentals](https://github.com/SwethaMagesh/Azure-Fundamentals-Notes) and worked on it as Summer Intern at Microsoft IGD
-- 🔭 I have recently worked on a bunch of  ***ML projects - RNN, [CNN](https://github.com/SwethaMagesh/Weed_classification_ML), [Reinforcement](https://github.com/SwethaMagesh/Dots_And_Boxes_RL) , a [traditional DBMS project](https://github.com/SwethaMagesh/illumine)*** and [***Social Network Analysis and Graph Visualisation***](https://github.com/SwethaMagesh/Visualize-Twitter-Hashtags) 
+- 🔭 I have recently worked on a bunch of  ***ML projects - RNN, [CNN](https://github.com/SwethaMagesh/Weed_classification_ML), [Reinforcement](https://github.com/SwethaMagesh/Dots_And_Boxes_RL) , a [traditional DBMS project](https://github.com/SwethaMagesh/illumine)*** , [***Social Network Analysis and Graph Visualisation***](https://github.com/SwethaMagesh/Visualize-Twitter-Hashtags) and [Map and Graph based project](https://github.com/SwethaMagesh/FinalYearProject) related to logistics.
 - 🤔 I’m looking forward to strengthening my basics and do competitive programming
 - ✨ If I HAD MORE TIME, I would start React, GoLang and some serious Competitive programming
 - ⚡ Special Interests: Math, Algorithms, Theory of Computation, Networks, Cryptography
