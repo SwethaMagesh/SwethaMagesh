@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - (Kind of relearning what ought to have been mastered) 
 - 🤔 I’m looking forward to 
 -->
-- 👋 Hello folks! **Swetha Magesh** here!! (Bored of Lockdown :<)
-- 😵 Working on FAST-APIs based Python project. 
+- 👋 Hello folks! **Swetha Magesh** here!! I finished BE CSE in 2022.
+- 😵 Working as Assc. Consultant in Microsoft!!! 
 - ✨ Studied [Azure Cloud Fundamentals](https://github.com/SwethaMagesh/Azure-Fundamentals-Notes) and worked on it as Summer Intern at Microsoft IGD
 - 🔭 I have recently worked on a bunch of  ***ML projects - RNN, [CNN](https://github.com/SwethaMagesh/Weed_classification_ML), [Reinforcement](https://github.com/SwethaMagesh/Dots_And_Boxes_RL) , a [traditional DBMS project](https://github.com/SwethaMagesh/illumine)*** , [***Social Network Analysis and Graph Visualisation***](https://github.com/SwethaMagesh/Visualize-Twitter-Hashtags) and [Map and Graph based project](https://github.com/SwethaMagesh/FinalYearProject) related to logistics.
 - 🤔 I’m looking forward to strengthening my basics and do competitive programming
