@@ -10,16 +10,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 <!--
-- (Kind of relearning what ought to have been mastered) 
 - 🤔 I’m looking forward to 
 -->
-- 👋 Hello folks! **Swetha Magesh** here!!
-- Doing Masters in IIT Bombay. I finished BE CSE in 2022 in PSG College of Technology.
-- 😵 Worked as Assc. Consultant in Microsoft, Hyderabad for a year from 2022 to 2023!!! 
-- ✨ Studied [Azure Cloud Fundamentals](https://github.com/SwethaMagesh/Azure-Fundamentals-Notes) and worked on it as Summer Intern at Microsoft IGD
-- 🔭 I have recently worked on a bunch of  ***ML projects - RNN, [CNN](https://github.com/SwethaMagesh/Weed_classification_ML), [Reinforcement](https://github.com/SwethaMagesh/Dots_And_Boxes_RL) , a [traditional DBMS project](https://github.com/SwethaMagesh/illumine)*** , [***Social Network Analysis and Graph Visualisation***](https://github.com/SwethaMagesh/Visualize-Twitter-Hashtags) and [Map and Graph based project](https://github.com/SwethaMagesh/FinalYearProject) related to logistics.
+- 👋 Hello folks! **Swetha Magesh** here!! Relearning what ought to have been mastered
+- ✨ Doing Masters in IIT Bombay CS'23-25.
+- ✨ I finished BE CSE in 2022 in PSG College of Technology.
+- 😵 Worked as Assc. Consultant in Microsoft, Hyderabad for a year from 2022 to 2023!!! Worked on Azure technologies and web development.
+- ✨ Studied [Azure Cloud Fundamentals](https://github.com/SwethaMagesh/Azure-Fundamentals-Notes) and worked on it as Summer Intern at Microsoft IGD from June to July 2021. 
+- 🔭 During UG, I have worked on a bunch of  ***ML projects - RNN, [CNN](https://github.com/SwethaMagesh/Weed_classification_ML), [Reinforcement](https://github.com/SwethaMagesh/Dots_And_Boxes_RL) , a [traditional DBMS project](https://github.com/SwethaMagesh/illumine)*** , [***Social Network Analysis and Graph Visualisation***](https://github.com/SwethaMagesh/Visualize-Twitter-Hashtags) and [Map and Graph based project](https://github.com/SwethaMagesh/FinalYearProject) related to logistics.
 - 🤔 I’m looking forward to strengthening my basics and do competitive programming
-- ✨ If I HAD MORE TIME, I would start React, GoLang and some serious Competitive programming
+- ✨ If I HAD MORE TIME, I would start GoLang and some state of art new tech for coding
 - ⚡ Special Interests: Math, Algorithms, Theory of Computation, Networks, Cryptography
 >- 💬 Ask me about anything! And I will find it for You! 😉
 >- 📫 How to reach me: swethamag.2000@gmail.com
