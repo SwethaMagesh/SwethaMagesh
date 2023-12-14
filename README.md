@@ -22,7 +22,7 @@
 ---
 ### Stats
 
-<table width="100%" style="overflow: hidden">
+<table width="100%" style=" overflow:hidden !important; display:flex">
 <tr>
 <td valign="top">
 <img src="https://github-readme-stats.vercel.app/api?username=swethamagesh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
