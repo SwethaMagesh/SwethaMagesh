@@ -5,7 +5,7 @@
 - 😵 Worked in Microsoft IGD, Hyderabad on Azure technologies and web development.
 - ✨ Studied [Azure Cloud Fundamentals](https://github.com/SwethaMagesh/Azure-Fundamentals-Notes) for Summer Intern at Microsoft IGD from June to July 2021.
 ---
-
+- 🧑‍💻 During PG, I have worked on projects on **ML projects** - [Legal Summarizer](https://github.com/SwethaMagesh/sankshepika-mlpro), [Emotion editting](https://github.com/SwethaMagesh/pied-piper-emotion-driven-image-generator) and other System projects like [Blockchain Simulator](https://github.com/SwethaMagesh/blockchain_assignment1), [FaaS wrapper](https://github.com/SwethaMagesh/FaaSiNetes) and [Course Analysis](https://github.com/SwethaMagesh/epicure-course-analysis-swlab)
 - 🔭 During UG, I have worked on a bunch of  ***ML projects - RNN, [CNN - Image segmentation](https://github.com/SwethaMagesh/Weed_classification_ML), [Reinforcement - Q learning](https://github.com/SwethaMagesh/Dots_And_Boxes_RL) , a [traditional DBMS + php project](https://github.com/SwethaMagesh/illumine)*** , [***Social Network Analysis and Graph Visualisation project***](https://github.com/SwethaMagesh/Visualize-Twitter-Hashtags) and [Map and Logistics based project](https://github.com/SwethaMagesh/FinalYearProject) related to logistics.
 
 - ⚡ Special Interests: Math, Algorithms, Theory of Computation, Networks, Cryptography
