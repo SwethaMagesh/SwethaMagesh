@@ -1,39 +1,61 @@
-## Hi 👋 
-### Education & Experience
-- ✨ Doing MTech CS in IIT Bombay.
-- ✨ BE CSE Batch'22 in PSG College of Technology.
-- 😵 Worked in Microsoft IGD, Hyderabad on Azure technologies and web development.
-- ✨ Studied [Azure Cloud Fundamentals](https://github.com/SwethaMagesh/Azure-Fundamentals-Notes) for Summer Intern at Microsoft IGD from June to July 2021.
----
-- 🧑‍💻 During PG, I have worked on projects on **ML projects** - [Legal Summarizer](https://github.com/SwethaMagesh/sankshepika-mlpro), [Emotion editting](https://github.com/SwethaMagesh/pied-piper-emotion-driven-image-generator) and other System projects like [Blockchain Simulator](https://github.com/SwethaMagesh/blockchain_assignment1), [FaaS wrapper](https://github.com/SwethaMagesh/FaaSiNetes) and [Course Analysis](https://github.com/SwethaMagesh/epicure-course-analysis-swlab)
-- 🔭 During UG, I have worked on a bunch of  ***ML projects - RNN, [CNN - Image segmentation](https://github.com/SwethaMagesh/Weed_classification_ML), [Reinforcement - Q learning](https://github.com/SwethaMagesh/Dots_And_Boxes_RL) , a [traditional DBMS + php project](https://github.com/SwethaMagesh/illumine)*** , [***Social Network Analysis and Graph Visualisation project***](https://github.com/SwethaMagesh/Visualize-Twitter-Hashtags) and [Map and Logistics based project](https://github.com/SwethaMagesh/FinalYearProject) related to logistics.
+## 👋 Hi There!
 
-- ⚡ Special Interests: Math, Algorithms, Theory of Computation, Networks, Cryptography
----
-
-### Contact me
->- 🔗 Portfolio: http://swethamagesh.github.io 
->- 👩 LinkedIn: https://www.linkedin.com/in/swetha-magesh
->- Additional links: [HackerRank](https://www.hackerrank.com/swethamag_2000) [CodeChef](https://www.codechef.com/users/undecipherable)
-> [LeetCode](https://leetcode.com/theUndecipherable/) [CodeForces](https://codeforces.com/profile/uncipherable) 
-> [StackOverflow](https://stackoverflow.com/users/13121045/swetha-magesh) [HackerEarth](https://www.hackerearth.com/@SwethaMagesh)
-
+### 🎓 Education & Experience  
+- ✨ Currently pursuing **M.Tech in Computer Science** at **IIT Bombay**.  
+- 🎓 Completed **B.E. in CSE (Batch '22)** from **PSG College of Technology**.  
+- 💼 Former Intern at **Microsoft IGD, Hyderabad** – worked on **Azure technologies** and **Web Development**.  
+- 📘 Studied [**Azure Cloud Fundamentals**](https://github.com/SwethaMagesh/Azure-Fundamentals-Notes) during Summer Internship (June–July 2021).  
 
 ---
-### Stats
 
-<table width="100%" style=" overflow:hidden !important; display:flex">
+### 🧠 Projects & Interests
+
+#### 📍 Postgraduate Projects (IIT Bombay)
+- 🤖 [Legal Summarizer – ML](https://github.com/SwethaMagesh/sankshepika-mlpro)  
+- 🎭 [Emotion-Driven Image Generator](https://github.com/SwethaMagesh/pied-piper-emotion-driven-image-generator)  
+- ⛓️ [Blockchain Simulator](https://github.com/SwethaMagesh/blockchain_assignment1)  
+- ☁️ [FaaSiNetes – FaaS Wrapper](https://github.com/SwethaMagesh/FaaSiNetes)  
+- 📊 [Course Analysis Tool](https://github.com/SwethaMagesh/epicure-course-analysis-swlab)  
+
+#### 📍 Undergraduate Projects (PSG Tech)
+- 🧠 [Weed Classification – CNN](https://github.com/SwethaMagesh/Weed_classification_ML)  
+- 🕹️ [Q-Learning – Reinforcement Learning](https://github.com/SwethaMagesh/Dots_And_Boxes_RL)  
+- 🗃️ [Illumine – DBMS + PHP App](https://github.com/SwethaMagesh/illumine)  
+- 🕸️ [Twitter Hashtag Visualizer – SNA](https://github.com/SwethaMagesh/Visualize-Twitter-Hashtags)  
+- 🗺️ [Final Year Project – Map & Logistics](https://github.com/SwethaMagesh/FinalYearProject)  
+
+#### ⚡ Special Interests  
+- Mathematics • Algorithms • Theory of Computation  
+- Computer Networks • Cryptography  
+
+---
+
+### 📬 Contact Me  
+- 🌐 **Portfolio**: [swethamagesh.github.io](http://swethamagesh.github.io)  
+- 💼 **LinkedIn**: [linkedin.com/in/swetha-magesh](https://www.linkedin.com/in/swetha-magesh)  
+- 💻 **Coding Profiles**:  
+  - [HackerRank](https://www.hackerrank.com/swethamag_2000)  
+  - [CodeChef](https://www.codechef.com/users/undecipherable)  
+  - [LeetCode](https://leetcode.com/theUndecipherable/)  
+  - [CodeForces](https://codeforces.com/profile/uncipherable)  
+  - [StackOverflow](https://stackoverflow.com/users/13121045/swetha-magesh)  
+  - [HackerEarth](https://www.hackerearth.com/@SwethaMagesh)  
+
+---
+
+### 📊 GitHub Stats
+
+<table width="100%" style="display: flex; overflow: hidden !important;">
 <tr>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=swethamagesh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=swethamagesh&show_icons=true&count_private=true&hide_border=true" style="width: 100%" />
 </td>
-
-<td valign="top" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethamagesh&langs_count=10&hide_border=true&hide_progress=true&layout=compact" align="left" style="width: 100%" />
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethamagesh&langs_count=10&hide_border=true&hide_progress=true&layout=compact" style="width: 100%" />
 </td>
 </tr>
-</table>  
+</table>
 
 <!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samyukthagopalsamy.samyukthagopalsamy) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=swethamagesh.swethamagesh)
 -->
