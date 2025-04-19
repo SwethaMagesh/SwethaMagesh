@@ -3,7 +3,7 @@
 ### 🎓 Education & Experience  
 - ✨ Currently pursuing **M.Tech in Computer Science** at **IIT Bombay**.  
 - 🎓 Completed **B.E. in CSE (Batch '22)** from **PSG College of Technology**.  
-- 💼 Former Intern at **Microsoft IGD, Hyderabad** – worked on **Azure technologies** and **Web Development**.  
+- 💼 Former Consultant at **Microsoft IGD, Hyderabad** – worked on **Azure technologies** and **Web Development**.  
 - 📘 Studied [**Azure Cloud Fundamentals**](https://github.com/SwethaMagesh/Azure-Fundamentals-Notes) during Summer Internship (June–July 2021).  
 
 ---
